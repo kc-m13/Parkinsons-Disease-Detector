@@ -10,10 +10,10 @@ The aim of this project is to delve into the intricate factors contributing to P
 Utilizing a combination of EDA techniques and machine learning algorithms, we have meticulously analyzed data to discern patterns and correlations associated with Parkinson's disease. Key steps include data cleaning, feature engineering, and insightful visualization to extract meaningful insights.
 ## Models Utilized
 
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Random Forest Regressor
-Decision Tree Regressor
+1. Logistic Regression
+2. K-Nearest Neighbors (KNN)
+3. Random Forest Regressor
+4. Decision Tree Regressor
 ## Libraries Used
 
 1. numpy: For efficient numerical operations
